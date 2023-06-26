@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47nfgwtkh1gs07gue019nnqx06a1t20ct68njrl5sr&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150"/><br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/><br>
+  <img src="https://komarev.com/ghpvc/?username=9brian&style=flat-square&color=blue" alt=""/><br>
   <h1>Hi there 👋</h1>
 </div>
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9brian&layout=compact"/>
