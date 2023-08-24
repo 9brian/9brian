@@ -9,9 +9,9 @@
 
 🎓 I am a software engineer in California <br>
 🌱 I’m currently learning OpenCV <br>
-🔭 In my spare time I'm working on open source contributions <br>
+🔭 In my spare time I'm working on Open-Source contributions <br>
 💬 I would love to talk more about AI and its future <br>
-⚡️ Fun fact: I'm playing Horizon Zero Dawn Forbidden West whenever possible
+⚡️ Fun fact: I'm playing Minecraft whenever possible
 <br><br><br>
 <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
