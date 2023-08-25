@@ -8,7 +8,7 @@
 ## :man_technologist: About Me :
 
 🎓 I am a software engineer in California <br>
-🌱 I’m currently learning OpenCV <br>
+🌱 I’m interest in OpenCV <br>
 🔭 In my spare time I'm working on Open-Source contributions <br>
 💬 I would love to talk more about AI and its future <br>
 ⚡️ Fun fact: I'm playing Minecraft whenever possible
